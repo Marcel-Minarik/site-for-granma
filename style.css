@@ -1,0 +1,15 @@
+body {
+  display: flex;
+}
+
+
+#header {
+  background-color: black;
+  flex: auto;
+
+}
+
+p {
+  color: blue;
+
+}
